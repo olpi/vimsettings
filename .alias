@@ -1,0 +1,2 @@
+# aliases
+alias vim='vim -u $HOME/.vim/.vimrc'
